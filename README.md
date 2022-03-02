@@ -10,20 +10,20 @@
 * [Project Status](#project-status)
 
 
-## General Information {#general-information}
+## General Information
 - Build a website that helps build MORE websites in the future.
 
 
-## Technologies Used {#technologies-used}
+## Technologies Used
 - HTML5 
 - CSS
 
 
-## Objectives {#objectives}
+## Objectives
 - Your style guide/design system will include at least a section on colors, fonts, and specific text styles, but it can be extended to as many other areas as you’d like.
 
 
-## Tasks {#tasks}
+## Tasks
 1. For colors include:
  - A name (you can come up with this name yourself).
  - A box displaying the color itself.
@@ -41,5 +41,5 @@
  - All style rules (for example, font-weight: 700).
 
 
-## Project Status {#project-status}
+## Project Status
 Project is: _finished_.
