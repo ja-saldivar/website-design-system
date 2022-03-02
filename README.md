@@ -25,10 +25,10 @@
 
 ## Tasks
 - For colors include:
- - A name (you can come up with this name yourself).
- - A box displaying the color itself.
- - The CSS value used to create the color (in hex, rgb(), rgba(), hsl(), or hsla()).
- - An optional description of how you intend to use the colors.
+  - A name (you can come up with this name yourself).
+  - A box displaying the color itself.
+  - The CSS value used to create the color (in hex, rgb(), rgba(), hsl(), or hsla()).
+  - An optional description of how you intend to use the colors.
 
 - For fonts include:
  - The font name
