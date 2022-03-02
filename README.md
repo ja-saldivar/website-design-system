@@ -24,18 +24,18 @@
 
 
 ## Tasks
-1. For colors include:
+- For colors include:
  - A name (you can come up with this name yourself).
  - A box displaying the color itself.
  - The CSS value used to create the color (in hex, rgb(), rgba(), hsl(), or hsla()).
  - An optional description of how you intend to use the colors.
 
-2. For fonts include:
+- For fonts include:
  - The font name
  - A series of styles that you intend to use (for example, styles - could include: plain, bold and italic, underlined).
  - For each style, include a sentence or series of words to demonstrate the text style (our example site uses the quick brown fox…).
 
-3. For text styles include:
+- For text styles include:
  - At least 3 element styles.
  - A page element name (for example, “Subheading”).
  - All style rules (for example, font-weight: 700).
