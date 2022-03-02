@@ -31,14 +31,14 @@
   - An optional description of how you intend to use the colors.
 
 - For fonts include:
- - The font name
- - A series of styles that you intend to use (for example, styles - could include: plain, bold and italic, underlined).
- - For each style, include a sentence or series of words to demonstrate the text style (our example site uses the quick brown fox…).
+  - The font name
+  - A series of styles that you intend to use (for example, styles - could include: plain, bold and italic, underlined).
+  - For each style, include a sentence or series of words to demonstrate the text style (our example site uses the quick brown fox…).
 
 - For text styles include:
- - At least 3 element styles.
- - A page element name (for example, “Subheading”).
- - All style rules (for example, font-weight: 700).
+  - At least 3 element styles.
+  - A page element name (for example, “Subheading”).
+  - All style rules (for example, font-weight: 700).
 
 
 ## Project Status
